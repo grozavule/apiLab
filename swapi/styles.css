@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "star-jedi-hollow";
+    src: url('fonts/star-jedi/eot/StarJediHollow.eot') format('embedded-opentype'),
+        url('fonts/star-jedi/ttf/StarJediHollow.ttf') format('truetype'),
+        url('fonts/star-jedi/woff/StarJediHollow.woff') format('woff');
+}
+@font-face {
+    font-family: "star-jedi-rounded";
+    src: url('fonts/star-jedi/eot/StarJediRounded.eot') format('embedded-opentype'),
+        url('fonts/star-jedi/ttf/StarJediRounded.ttf') format('truetype'),
+        url('fonts/star-jedi/woff/StarJediRounded.woff') format('woff');
+}
+@font-face {
+    font-family: "death-star";
+    src: url('fonts/death-star/eot/DeathStar.eot') format('embedded-opentype'),
+        url('fonts/death-star/ttf/DeathStar.ttf') format('truetype'),
+        url('fonts/death-star/woff/DeathStar.woff') format('woff');
+}
+
+h1,h2,h3,h4,h5,h6 { font-family:'death-star', sans-serif; }
+h2 { font-size: 45px; }
